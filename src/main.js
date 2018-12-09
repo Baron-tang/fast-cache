@@ -4,10 +4,14 @@ class Person{
 		this.age = age;
 	}
 
-	get name(){
+	get(key){
 		return this.name;
 	}
-	set name(value){
+	set(key, value){
 		this.name = value;
+	}
+	
+	say(){
+		console.log("My name is " + this.name + ",I'm " + this.age + "years old");
 	}
 }
