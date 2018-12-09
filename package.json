@@ -1,6 +1,6 @@
 {
-  "name": "fast-cache",
-  "version": "0.0.1",
+  "name": "fast-cache-baron",
+  "version": "0.0.2",
   "description": "\\fast-cash-demo",
   "main": "./src/index.js",
   "scripts": {
